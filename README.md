@@ -1,5 +1,5 @@
-<h1 align="center">Olá👋, eu sou a Loren Oliveira</h1>
-<h3 align="center">Formada em Sistemas de Informação pelo Mackenzie e futura Analista de Dados!</h3>
+<h1 align="center">Olá, tudo bem? Meu nome é Loren! </h1>
+<h3 align="left">Formada em Sistemas de Informação pelo Mackenzie e futura Analista de Dados 👩‍💻📊🔎📉!</h3>
 
 - 🔭 Atualmente estou trabalhando na minha transição de carreira para a área de **Data Analysis**
 
