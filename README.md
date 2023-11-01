@@ -1,7 +1,7 @@
 <h1 align="center">Olá, tudo bem? Meu nome é Loren Oliveira! </h1>
-<h3 align="left">Formada em Sistemas de Informação pelo Mackenzie 📊🔎📉!</h3>
+<h3 align="left"> Tenho 24 anos, e sou formada em Sistemas de Informação pelo Mackenzie!👩‍🎓💻</h3>
 
-- 🔭 Estou em busca da primeira oportunidade em minha área de formação 👩‍💻📱⌨️💻.
+- 🔭 Estou em busca da primeira oportunidade em minha área de formação 👩‍💻📱⌨️.
 - 🌱 Atualmente estou aprendendo **PYTHON | SQL | POWER BI | GOVERNANÇA DE DADOS | GITHUB | EXCEL | METODOLOGIA ÁGIL**
 - 🫶 Minha maior aspiração é conseguir trabalhar com Dados - seja com Data Analytics 📊🔎 ou Banco de Dados 🔏📂
 
