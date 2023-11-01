@@ -1,9 +1,8 @@
-<h1 align="center">Olá, tudo bem? Meu nome é Loren! </h1>
-<h3 align="left">Formada em Sistemas de Informação pelo Mackenzie e futura Analista de Dados 👩‍💻📊🔎📉!</h3>
+<h1 align="center">Olá, tudo bem? Meu nome é Loren Oliveira! </h1>
+<h3 align="left">Formada em Sistemas de Informação pelo Mackenzie 👩‍💻📊🔎📉!</h3>
 
-- 🔭 Atualmente estou trabalhando na minha transição de carreira para a área de **Data Analysis**
-
-- 🌱 Atualmente estou aprendendo **POWER BI | SQL | PYTHON**
+- 🔭 Atualmente estou buscando a primeira oportunidade em minha área de formação ![image](https://github.com/LorenOliveiraFF/LorenOliveiraFF/assets/132095802/2dde57d9-c3f6-4971-9237-058dd9474cc1)
+- 🌱 Atualmente estou aprendendo **PYTHON | SQL | POWER BI | GOVERNANÇA DE DADOS | GITHUB | EXCEL | METODOLOGIA ÁGIL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
