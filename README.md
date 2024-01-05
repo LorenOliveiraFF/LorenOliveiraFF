@@ -1,9 +1,12 @@
 <h1 align="center">Olá, tudo bem? Meu nome é Loren Oliveira! </h1>
 <h3 align="left"> Tenho 24 anos, e sou formada em Sistemas de Informação pelo Mackenzie!👩‍🎓💻</h3>
 
+- 💻 Agora em 2024 inicio minha Pós-Graduação pela USP em Engenharia de Dados & Big Data.
 - 🔭 Estou em busca da primeira oportunidade em minha área de formação 👩‍💻📱⌨️.
 - 🌱 Atualmente estou aprendendo **PYTHON | SQL | POWER BI | GOVERNANÇA DE DADOS | GITHUB | EXCEL | METODOLOGIA ÁGIL**
 - 🫶 Minha maior aspiração é conseguir trabalhar com Dados - seja com Data Analytics 📊🔎 ou Banco de Dados 🔏📂
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
