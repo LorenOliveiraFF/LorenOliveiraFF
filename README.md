@@ -1,5 +1,5 @@
 <h1 align="center">Olá, tudo bem? Meu nome é Loren Ferreira! </h1>
-<h3 align="left"> Tenho 24 anos, sou formada em Sistemas de Informação pelo Mackenzie e pós-graduanda em Engenharia de Dados & BigData pela USP!👩‍🎓💻</h3>
+<h3 align="left"> Tenho 24 anos, sou formada em Sistemas de Informação pelo Mackenzie e pós-graduanda em Engenharia de Dados & Big Data pela USP!👩‍🎓💻</h3>
 
 - 💻 Agora em 2024 inicio minha Pós-Graduação pela USP em Engenharia de Dados & Big Data.
 - 🔭 Estou em busca da primeira oportunidade em minha área de formação 👩‍💻📱⌨️.
